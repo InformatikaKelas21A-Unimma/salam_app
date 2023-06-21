@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922412824704",
+    "project_id": "salam-app-48cf0",
+    "storage_bucket": "salam-app-48cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922412824704:android:1ca5ebb7e566ab49644e65",
+        "android_client_info": {
+          "package_name": "com.example.salam_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922412824704-f3i9ocl7f0k1qhn6e5sk8lrtgqto32sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVR7WPTy6SpqP4Q51GnEDmyQjcXGCSUso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922412824704-f3i9ocl7f0k1qhn6e5sk8lrtgqto32sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
